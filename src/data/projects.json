@@ -1,0 +1,35 @@
+[
+    {
+        "link": "https://apps.apple.com/us/app/speechpro-languages/id1626062303",
+        "name": "SpeechPro",
+        "content": "SpeechPro is an AI based language learning coach. The project is based on React Native and uses Recoil for state management. I'm currently <strong>working as one of the maintainers</strong> - primarily handling android side of the project including bug fixes and implementing new features.",
+        "skills": [
+            "React Native",
+            "Recoil"
+        ]
+    },
+    {
+        "link": "https://play.google.com/store/apps/details?id=com.dev404.dbviewer",
+        "name": "DBViewer",
+        "content": "DBViewer is an android application with more than <strong>10k+ downloads</strong> and around <strong>3k active users</strong>. It is an application that lets the users interact with MS Access databases. The project makes use of Flutter to create UI and frontend logic, Java to handle database itself, and provider as a state management solution.",
+        "skills": [
+            "Flutter", "Hive", "Java", "Provider", "Android"
+        ]
+    },
+    {
+        "link": "https://github.com/Sheharyar566/ultrablok-chrome-extension",
+        "name": "Ultrablock (Adblocker)",
+        "content": "Ultrablock is an adblocking chrome extension. This project helped me understand typescript, improve my javascript concepts and understand how the DOM can be accessed and manipulated using chrome extensions.",
+        "skills": [
+            "Typescript", "Javascript", "HTML", "CSS", "Chrome extension API"
+        ]
+    },
+    {
+        "link": "https://github.com/Sheharyar566/inspire_me.git",
+        "name": "Inspire Me",
+        "content": "My very first chrome extension I developed a while back when I was trying to learn JavaScript. The main purpose of the extension was to allow front-end developers easily save their favorite website designs with just one click. The extension enables users to capture the visible part of a webpage, get the list of fonts used on the website, and get the color scheme being employed.",
+        "skills": [
+            "Javascript", "HTML", "CSS", "Chrome extension API"
+        ]
+    }
+]
